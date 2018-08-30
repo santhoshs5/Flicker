@@ -23,4 +23,4 @@ App is based on **MVVM** architecture.
 
 ## Unit tests
 
-Unit tests are written for FlickrViewPresenter only.
+Unit tests are written for network Request only.
